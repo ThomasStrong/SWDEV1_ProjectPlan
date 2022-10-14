@@ -21,8 +21,10 @@ Contained herein are the documents that will support and facilitate the creation
 ## Instructions
 
 There are 3 main documents to focus on:
-_ BlackjackProjectPlan.pdf - The project plan, outline, and general ideas on completion.
-_ Blackjack ProjectFlowchart.pdf - Attempts to map the flow of the application at runtime. This will be used to set the structure of the code and go as far as providing the initial pseudocode for the application. \* blackjackprojectWF.pdf - This is the wireframe of the fully-realized version of the application. This is the goal for the end product and may/may not represent the minimum viable product.
+
+- BlackjackProjectPlan.pdf - The project plan, outline, and general ideas on completion.
+- Blackjack ProjectFlowchart.pdf - Attempts to map the flow of the application at runtime. This will be used to set the structure of the code and go as far as providing the initial pseudocode for the application.
+- blackjackprojectWF.pdf - This is the wireframe of the fully-realized version of the application. This is the goal for the end product and may/may not represent the minimum viable product.
 
 ## Questions?
 
